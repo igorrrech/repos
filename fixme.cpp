@@ -1,4 +1,4 @@
-fet
+fet = aye
 #include "../settings/Settings.h"
 #include "../db/DbConnection.h"
 #include <boost/uuid/uuid_generators.hpp>
